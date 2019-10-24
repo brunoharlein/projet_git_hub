@@ -1,1 +1,1 @@
-from.def2.define2 import perimeter_carré
+from def2.define2 import perimeter_carré
